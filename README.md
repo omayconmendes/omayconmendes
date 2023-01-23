@@ -42,3 +42,6 @@ Hi ! 👋
   <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    
 </div>
+
+<br><br>
+![](https://komarev.com/ghpvc/?username=omayconmendes)
