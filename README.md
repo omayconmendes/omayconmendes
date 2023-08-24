@@ -17,9 +17,7 @@ Hi ! 👋
 
 ### Github Status
 <div>
-  <a href="https://github.com/omayconmendes">
-  <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=omayconmendes&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omayconmendes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=react"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omayconmendes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=react"/>
 </div>
 
 <hr>
@@ -34,14 +32,9 @@ Hi ! 👋
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="ExpressJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    
 </div>
-
-<br><br>
-![](https://komarev.com/ghpvc/?username=omayconmendes)
