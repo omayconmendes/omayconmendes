@@ -5,19 +5,17 @@
 <br>
 
 - 🔥 Brazilian Web Developer 
-- 🛠 Building user experiences with Angular and Java
+- 🛠 Building user experiences with Angular and NodeJS
 - 🌎 I'm currently based in Blumenau, Santa Catarina
 
 <br>
 
 ### Technologies, languages & tools: 
 <div style="display: inline_block"><br>
- <img align="center" alt="Angular" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
- <img align="center" alt="Java" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Kotlin" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt="Spring" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
- <img align="center" alt="Go" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-          
+ <img align="center" alt="Typescript" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Angular" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+ <img align="center" alt="NodeJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+ <img align="center" alt="SQL" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>
 
 <br>
