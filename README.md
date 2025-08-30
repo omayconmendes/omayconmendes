@@ -6,11 +6,11 @@
 
 I drive digital products forward by writing high-quality code.
 
-My specialty is bringing Figma designs to life, transforming them into responsive, accessible, and high-performance interfaces using <b>Angular</b>, <b>HTML</b>, <b>CSS</b>, and <b>Typescript</b>. I prioritize performance and usability to ensure the best user experience.
+My specialty is bringing Figma designs to life, transforming them into responsive, accessible, and high-performance interfaces. I have 4 years of solid experience with <b>Angular</b>, <b>HTML</b>, <b>CSS</b>, and <b>TypeScript</b>, and I prioritize performance and usability to ensure the best user experience.
 
-I work in agile teams, developing new features and optimizations. I use <b>Git</b> for version control, apply unit tests, and work with Design Systems to ensure application consistency.
+I work on agile teams, developing new features and optimizations, using <b>Git</b> for version control, applying unit tests, and working with Design Systems to ensure application consistency.
 
-My professional journey is now expanding into back-end development. I'm deepening my knowledge of <b>Node.js</b>, <b>Fastify</b>, <b>PrismaORM</b>, <b>Docker</b>, and <b>PostgreSQL</b> with the goal of building end-to-end solutions.
+I'm currently transitioning into Full-Stack development, deepening my knowledge of <b>Golang</b> for building APIs and microservices, and <b>Vue.js</b> for dynamic interfaces. I'm seeking opportunities to apply this new combination of technologies to create end-to-end solutions.
 
 
 ### Contact me
